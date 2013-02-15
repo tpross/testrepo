@@ -1,0 +1,96 @@
+01 	1 	Bewertungen Professional
+01 	3 	Bewertungen Starter
+01 	40 	Premium
+01 	22 	Premium Double
+01 	1 	Premium Package Universal
+01 	3 	Premium Triple
+01 	5 	Premium Universal
+01 	75 	Gesamt Januar 2011
+02 	1 	Bewertungen Professional
+02 	3 	Bewertungen Starter
+02 	40 	Premium
+02 	22 	Premium Double
+02 	1 	Premium Package Universal
+02 	3 	Premium Triple
+02 	5 	Premium Universal
+02 	91 	Gesamt February 2011
+03 	1 	Bewertungen Professional
+03 	3 	Bewertungen Starter
+03 	40 	Premium
+03 	22 	Premium Double
+03 	1 	Premium Package Universal
+03 	3 	Premium Triple
+03 	5 	Premium Universal
+03 	94 	Gesamt March 2011
+04 	1 	Bewertungen Professional
+04 	3 	Bewertungen Starter
+04 	40 	Premium
+04 	22 	Premium Double
+04 	1 	Premium Package Universal
+04 	3 	Premium Triple
+04 	5 	Premium Universal
+04 	68 	Gesamt April 2011
+05 	1 	Bewertungen Professional
+05 	3 	Bewertungen Starter
+05 	40 	Premium
+05 	22 	Premium Double
+05 	1 	Premium Package Universal
+05 	3 	Premium Triple
+05 	5 	Premium Universal
+05 	68 	Gesamt May 2011
+06 	1 	Bewertungen Professional
+06 	3 	Bewertungen Starter
+06 	40 	Premium
+06 	22 	Premium Double
+06 	1 	Premium Package Universal
+06 	3 	Premium Triple
+06 	5 	Premium Universal
+06 	81 	Gesamt June 2011
+07 	1 	Bewertungen Professional
+07 	3 	Bewertungen Starter
+07 	40 	Premium
+07 	22 	Premium Double
+07 	1 	Premium Package Universal
+07 	3 	Premium Triple
+07 	5 	Premium Universal
+07 	70 	Gesamt July 2011
+08 	1 	Bewertungen Professional
+08 	3 	Bewertungen Starter
+08 	40 	Premium
+08 	22 	Premium Double
+08 	1 	Premium Package Universal
+08 	3 	Premium Triple
+08 	5 	Premium Universal
+08 	89 	Gesamt August 2011
+09 	1 	Bewertungen Professional
+09 	3 	Bewertungen Starter
+09 	40 	Premium
+09 	22 	Premium Double
+09 	1 	Premium Package Universal
+09 	3 	Premium Triple
+09 	5 	Premium Universal
+09 	100 	Gesamt September 2011
+10 	1 	Bewertungen Professional
+10 	3 	Bewertungen Starter
+10 	40 	Premium
+10 	22 	Premium Double
+10 	1 	Premium Package Universal
+10 	3 	Premium Triple
+10 	5 	Premium Universal
+03 	158 	Gesamt October 2011
+11 	1 	Bewertungen Professional
+11 	3 	Bewertungen Starter
+11 	40 	Premium
+11 	22 	Premium Double
+11 	1 	Premium Package Universal
+11 	3 	Premium Triple
+11 	5 	Premium Universal
+11 	122 	Gesamt November 2011
+12 	1 	Bewertungen Professional
+12 	3 	Bewertungen Starter
+12 	40 	Premium
+12 	22 	Premium Double
+12 	1 	Premium Package Universal
+12 	3 	Premium Triple
+12 	5 	Premium Universal
+12 	62 	Gesamt December 2011
